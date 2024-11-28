@@ -1,0 +1,4 @@
+banana,1,4.77
+abacate,2,9
+Panela,3,19.2
+estojo,4,5
